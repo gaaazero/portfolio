@@ -234,3 +234,20 @@ h1.cine {
 h1.maeil {
     color: #194E91;
 }
+
+
+.main {
+  position: relative;
+}
+
+.lang {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}
+
+.lang a {
+  text-decoration: none;
+  color: #000;
+  font-weight: bold;
+}
