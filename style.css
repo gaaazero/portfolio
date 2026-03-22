@@ -247,6 +247,8 @@ h1.maeil {
 }
 
 .lang a {
+  disflex: block;
+  padding: 25px 10px;
   text-decoration: none;
   color: #fff;
   font-weight: bold;
