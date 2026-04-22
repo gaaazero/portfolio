@@ -4,9 +4,6 @@ body {
     line-height: 1.3;
     cursor: url('image/cursor.png') 0 0,auto;
 }
-.wrap {
-    width: 1200px;
-}
 
 h1 {
     font-weight: 700;
