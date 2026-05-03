@@ -66,7 +66,7 @@ section.introduce {
     display: flex;
     justify-content: center;
     align-items: end;
-    gap: 150px;
+    gap: 130px;
 
     
 }
@@ -79,6 +79,11 @@ section.introduce {
 .intro-left h2 {
     font-weight: 400;
     margin-top: 23px;
+    width: 950px;
+}
+.intro-left h2 span {
+    color: #FF1493;
+    font-weight: 600;
 }
 .intro-left h6 {
     margin-top: 25px;
